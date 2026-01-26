@@ -1,2 +1,15 @@
 /2video.py
 /plcandblanc.py
+/__pycache__/
+/venv/
+/env/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.sqlite3
+instance/
